@@ -1,0 +1,14 @@
+package javaBasics;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Student s = new Student();
+		
+		s.setName("Ankush");
+		
+		System.out.println(s.getName());
+
+	}
+
+}
