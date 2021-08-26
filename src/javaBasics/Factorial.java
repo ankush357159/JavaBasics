@@ -18,6 +18,8 @@ public class Factorial {
 		
 		System.out.print("Factors of " + number + " are: ");
 		findFactor(number, 1);
+		
+		sc.close();
 
 	}
 	
